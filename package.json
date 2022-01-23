@@ -1,0 +1,9 @@
+{
+  "name": "@bzelip/dirname",
+  "version": "0.1.0",
+  "description": "ES6 `__dirname` utility",
+  "type": "module",
+  "main": "dirname.js",
+  "author": "Brian Zelip <bzelip@protonmail.com> (https://zelip.me/)",
+  "license": "MIT"
+}
