@@ -19,7 +19,7 @@ Returns absolute path of file.
 Example:
 
 ```js
-import dirname from '@bzelip/__dirname';
+import dirname from '@bzelip/dirname';
 
 const __dirname = dirname(import.meta.url);
 ```
